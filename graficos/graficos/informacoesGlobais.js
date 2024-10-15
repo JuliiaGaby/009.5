@@ -1,4 +1,4 @@
-const url = 'https://raw.githubusercontent.com/JuliiaGaby/main/api/global-data.json';
+const url = 'https://raw.githubusercontent.com/JuliiaGaby/009.5/main/api/numero-usuarios.json';
 
 async function visualizeGlobalInformation() {
     const res = await fetch(url);
