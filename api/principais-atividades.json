@@ -2,56 +2,51 @@
     "qual destes animais você tem? 3°A": {
         "Cachorro": 13,
         "Gato": 3,
-        "Peixe",
-        "Mensagens para Amigos e Família": 72.6,
-        "Postar ou Compartilhar Fotos/Vídeos": 63.5
+        "peixe": 2,
+        "passáro": 4,
+        "Hamster": 2,
+        "Coelhos": 2,
+        "Tartarugas": 0,
+        "Porco da índia": 2,
+
     },
-    "Instagram": {
-        "Buscar Conteúdo Divertido": 64.8,
-        "Seguir Marcas e Produtos": 62.7,
-        "Atualizar-se com Notícias": 52.5,
-        "Mensagens para Amigos e Família": 58.3,
-        "Postar ou Compartilhar Fotos/Vídeos": 70.4
+   "qual destes animais você tem? 3°B": {
+        "Cachorro": 17,
+        "Gato": 5,
+        "peixe": 1,
+        "passáro": 0,
+        "Hamster": 0,
+        "Coelhos": 0
+        "Tartarugas": 1
+        "Porco da índia": 0
     },
-    "TikTok": {
-        "Buscar Conteúdo Divertido": 80.3,
-        "Seguir Marcas e Produtos": 44.9,
-        "Atualizar-se com Notícias": 39.0,
-        "Mensagens para Amigos e Família": 17.9,
-        "Postar ou Compartilhar Fotos/Vídeos": 39.4
+   "qual destes animais você tem? 3°C":{
+        "Cachorro": 15,
+        "Gato": 8,
+        "peixe": 2,
+        "passáro": 5,
+        "Hamster": 1,
+        "Coelhos": 1,
+        "Tartarugas": 1,
+        "Porco da índia": 1,
     },
-    "LinkedIn": {
-        "Buscar Conteúdo Divertido": 10.0,
-        "Seguir Marcas e Produtos": 24.1,
-        "Atualizar-se com Notícias": 27.7,
-        "Mensagens para Amigos e Família": 11.7,
-        "Postar ou Compartilhar Fotos/Vídeos": 14.7
+   "qual destes animais você tem? 3°D":{
+        "Cachorro": 6,
+        "Gato": 4,
+        "peixe": 3,
+        "passáro": 3,
+        "Hamster": 0,
+        "Coelhos": 0,
+        "Tartarugas": 1,
+        "Porco da índia": 0,
     },
-    "Snapchat": {
-        "Buscar Conteúdo Divertido": 35.1,
-        "Seguir Marcas e Produtos": 22.1,
-        "Atualizar-se com Notícias": 21.1,
-        "Mensagens para Amigos e Família": 38.7,
-        "Postar ou Compartilhar Fotos/Vídeos": 42.9
-    },
-    "Twitter": {
-        "Buscar Conteúdo Divertido": 34.9,
-        "Seguir Marcas e Produtos": 35.7,
-        "Atualizar-se com Notícias": 60.6,
-        "Mensagens para Amigos e Família": 19.0,
-        "Postar ou Compartilhar Fotos/Vídeos": 27.2
-    },
-    "Reddit": {
-        "Buscar Conteúdo Divertido": 33.0,
-        "Seguir Marcas e Produtos": 28.7,
-        "Atualizar-se com Notícias": 31.0,
-        "Mensagens para Amigos e Família": 7.4,
-        "Postar ou Compartilhar Fotos/Vídeos": 13.0
-    },
-    "Pinterest": {
-        "Buscar Conteúdo Divertido": 20.9,
-        "Seguir Marcas e Produtos": 36.6,
-        "Atualizar-se com Notícias": 13.3,
-        "Mensagens para Amigos e Família": 6.0,
-        "Postar ou Compartilhar Fotos/Vídeos": 13.6
-    }
+    "qual destes animais você tem? 3°E":{
+        "Cachorro": 11,
+        "Gato": 9,
+        "peixe": 5,
+        "passáro": 12,
+        "Hamster": 3,
+        "Coelhos": 0,
+        "Tartarugas": 1,
+        "Porco da índia": 0,
+  
